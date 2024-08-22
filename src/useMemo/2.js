@@ -23,9 +23,7 @@ function App() {
       <button onClick={()=>{setCounter(counter + 1)}}>Counter++</button>
       <h1>Counter: {counter}</h1>
     </>
-  )
-
- 
+  ) 
 }
 
 export default App
